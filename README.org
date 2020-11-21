@@ -1,0 +1,73 @@
+Este repositório contém informações sobre a disciplina de Projeto e
+Análise de Algoritmos, ministrada no campus da UFC em Crateús, no
+semestre 2020.2.
+
+* Cronograma
+
+  Abaixo estão listadas as aulas e seus conteúdos. Teremos live toda
+  terça, no horário de 17:30-19:30, pelo Google Meet.
+
+  As aulas estarão disponíveis em https://www.youtube.com/user/luizalbertocviana.
+  
+| Data             |     Aula | Descrição                                                                 |
+|------------------+----------+------------------------------------------------------------------------|
+| [2020-12-01 Tue] |       01 | introdução: construindo algoritmos por indução                         |
+| [2020-12-03 Thu] |       02 | insertion sort: construção e análise                                   |
+| [2020-12-08 Tue] |       03 | Notação Assintótica: definições e exemplos                             |
+| [2020-12-10 Thu] |       04 | Notação assintótica: exemplos e resultados                             |
+| [2020-12-15 Tue] |       05 | Relações de Recorrência: exemplos e simplificação                      |
+| [2020-12-17 Thu] |       06 | Relações de Recorrência: exemplos e simplificação                      |
+| [2020-12-22 Tue] |       07 | Teorema Mestre: demonstração e aplicações                              |
+| [2020-12-24 Thu] |  Recesso |                                                                        |
+| [2020-12-29 Tue] |  Recesso |                                                                        |
+| [2020-12-31 Thu] |  Recesso |                                                                        |
+| [2021-01-05 Tue] |  Recesso |                                                                        |
+| [2021-01-07 Thu] |       08 | Divisão e Conquista: multiplicação de binários, mergesort              |
+| [2021-01-12 Tue] |       09 | Divisão e Conquista: medianas, multiplicação de matrizes               |
+| [2021-01-14 Thu] |       10 | Divisão e Conquista: problema do subvetor máximo                       |
+| [2021-01-19 Tue] |       11 | Ordenação: heapsort                                                    |
+| [2021-01-21 Thu] |       12 | Ordenação: quicksort                                                   |
+| [2021-01-26 Tue] |       13 | Ordenação Linear: radix sort, bucket sort                              |
+| [2021-01-28 Thu] |       14 | Programação Dinâmica: introdução, subsequência crescente máxima        |
+| [2021-02-02 Tue] |       15 | Programação Dinâmica: distância de edição                              |
+| [2021-02-04 Thu] |       16 | Programação Dinâmica: cadeia de multiplicação de matrizes              |
+| [2021-02-09 Tue] |       17 | Programação Dinâmica: caminho mais curto em DAGS                       |
+| [2021-02-11 Thu] |       18 | Programação Dinâmica: algoritmo de Dijkstra                            |
+| [2021-02-16 Tue] | Carnaval |                                                                        |
+| [2021-02-18 Thu] |       19 | Programação Dinâmica: algoritmo de Bellman-Ford                        |
+| [2021-02-23 Tue] |       20 | Programação Dinâmica: algoritmo de Floyd-Warshall                      |
+| [2021-02-25 Thu] |       21 | Programação Dinâmica: conjuntos independentes em árvores               |
+| [2021-03-02 Tue] |       22 | Matróides: definição, exemplos e algoritmos                            |
+| [2021-03-04 Thu] |       23 | Matróides: propriedades                                                |
+| [2021-03-09 Tue] |      FIT |                                                                        |
+| [2021-03-11 Thu] |       EU |                                                                        |
+| [2021-03-16 Tue] |       24 | Algoritmos Gulosos: matróide gráfico, árvore geradora mínima           |
+| [2021-03-18 Thu] |       25 | Algoritmos Gulosos: escalonamento de tarefas uniformes com penalidades |
+| [2021-03-23 Tue] |       26 | NP-completude: introdução e definições                                 |
+| [2021-03-25 Thu] |  Feriado |                                                                        |
+| [2021-03-30 Tue] |       27 | NP-completude: SAT, 3-SAT, Conjunto Independente                       |
+| [2021-04-01 Thu] |  Feriado |                                                                        |
+| [2021-04-06 Tue] |       28 | NP-completude: cobertura de vértices, Clique, Ciclo Hamiltoniano       |
+| [2021-04-08 Thu] |       29 | NP-completude: emparelhamento tridimensional, ZOE, Programação Inteira |
+| [2021-04-13 Tue] |       AF |                                                                        |
+| [2021-04-15 Thu] |       AF |                                                                        |
+
+* Entregas
+
+  A avaliação consistirá de seis entregas, pela plataforma Github
+  Classroom. A cada entrega, será atribuida uma nota de 0 a 10. A
+  Média Parcial será a média simples das notas das entregas. A
+  Avaliação Final também consistirá de uma entrega, e a Média Final
+  será a média simples entre a Média Parcial e a nota da Avaliação
+  Final.
+
+  Todas as entregas devem ser produzidas utilizando LaTeX.
+  
+| Descrição   | Data             |
+|-------------+------------------|
+| Aulas 01-07 | [2021-01-07 qui] |
+| Aulas 08-13 | [2021-02-02 ter] |
+| Aulas 14-16 | [2021-02-18 Thu] |
+| Aulas 17-21 | [2021-03-04 Thu] |
+| Aulas 22-25 | [2021-03-30 Tue] |
+| Aulas 26-29 | [2021-04-09 sex] |

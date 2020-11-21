@@ -2,7 +2,7 @@ Este repositório contém informações sobre a disciplina de Projeto e
 Análise de Algoritmos, ministrada no campus da UFC em Crateús, no
 semestre 2020.2.
 
-As issues deste repositório podem ser utilizadas para disucssão sobre
+As issues deste repositório podem ser utilizadas para discussão sobre
 o conteúdo da disciplina.
 
 * Cronograma

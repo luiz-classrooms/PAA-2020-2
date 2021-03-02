@@ -12,7 +12,7 @@ o conteúdo da disciplina.
 
   As aulas estarão disponíveis em https://www.youtube.com/user/luizalbertocviana.
   
-| Data             |     Aula | Descrição                                                                 |
+| Data             |     Aula | Descrição                                                              |
 |------------------+----------+------------------------------------------------------------------------|
 | [2020-12-01 Tue] |       01 | introdução: construindo algoritmos por indução                         |
 | [2020-12-03 Thu] |       02 | insertion sort: construção e análise                                   |
@@ -71,6 +71,6 @@ o conteúdo da disciplina.
 | Aulas 01-07 | [2021-01-07 qui] |
 | Aulas 08-13 | [2021-02-02 ter] |
 | Aulas 14-16 | [2021-02-18 Thu] |
-| Aulas 17-21 | [2021-03-04 Thu] |
+| Aulas 17-21 | [2021-03-07 dom] |
 | Aulas 22-25 | [2021-03-30 Tue] |
 | Aulas 26-29 | [2021-04-09 sex] |
